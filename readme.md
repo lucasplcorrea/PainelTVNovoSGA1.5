@@ -57,7 +57,7 @@ Entre o # e o < insira o link m3u, ex.:
 ```php
 case 'm3u':
 ?>
-<iframe id="slides-container" src="chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#SEULINKAQUI.m3u8<?php echo $dadoDoVideo; ?>" frameborder="0"></iframe>
+<iframe id="slides-container" src="chrome-extension://hahkjjkedonglpienpfiganogikkkoii/player.html#SEULINKAQUI.m3u8<?php echo $dadoDoVideo; ?>" frameborder="0"></iframe>
 <?php
 ```
 
