@@ -69,3 +69,7 @@ Sugestão de lista de canais M3U gratuitas e públicas:
 MIT
 
 **Esse código não foi 100% escrito por mim, fiz apenas algumas adaptações, alguns trechos foram escritos por outros colegas e compartilhados na comunidade do [NovoSGA](https://github.com/novosga/novosga), eu apenas os compilei e fiz a minha versão**
+
+
+##Screenshots
+![](Screenshots/Screenshot.png)
