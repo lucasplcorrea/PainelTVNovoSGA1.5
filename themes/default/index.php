@@ -20,7 +20,7 @@
     switch ($tipo) {
         case 'm3u':
             ?>
-            <iframe id="slides-container" src="chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#<?php echo $dadoDoVideo; ?>" frameborder="0"></iframe>
+            <iframe id="slides-container" src="chrome-extension://hahkjjkedonglpienpfiganogikkkoii/player.html#<?php echo $dadoDoVideo; ?>" frameborder="0"></iframe>
             <?php
             break;
         case 'youtube':
